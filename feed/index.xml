@@ -8,10 +8,10 @@
 	>
 
 <channel>
-	<title>orkFarm</title>
+	<title>ORK Farm</title>
 	<atom:link href="http://localhost/farm/feed/" rel="self" type="application/rss+xml" />
 	<link>https://dammyng.github.io/oakfarms</link>
-	<description>Just another WordPress site</description>
+	<description>WE ARE ORK FARMS, WE PROVIDE Poultry Product, Cash crop and Livestock</description>
 	<lastBuildDate>Mon, 19 Aug 2019 15:54:18 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
@@ -19,6 +19,14 @@
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
 	<generator>https://wordpress.org/?v=5.2.2</generator>
+
+<image>
+	<url>https://dammyng.github.io/oakfarms/wp-content/uploads/2019/08/cropped-logo-1-32x32.png</url>
+	<title>ORK Farm</title>
+	<link>https://dammyng.github.io/oakfarms</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
 	<item>
 		<title>Hello world!</title>
 		<link>https://dammyng.github.io/oakfarms/2019/08/19/hello-world/</link>
